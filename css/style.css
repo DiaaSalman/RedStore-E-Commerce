@@ -10,7 +10,6 @@
 /* Start Header */
 header{
     background: radial-gradient(#fff, #ffd6d6);
-    height: 100vh;
 }
 .container{
     max-width: 1300px;
